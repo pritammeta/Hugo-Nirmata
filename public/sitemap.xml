@@ -3,268 +3,268 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/ownership/</loc>
+    <loc>/billing-pricing/ownership/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/linux/</loc>
+    <loc>/features/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/requirments/</loc>
+    <loc>/installation/requirments/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/install/</loc>
+    <loc>/installation/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/mac/</loc>
+    <loc>/features/mac/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/manage/</loc>
+    <loc>/billing-pricing/manage/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/configuration/</loc>
+    <loc>/installation/configuration/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/bill/</loc>
+    <loc>/billing-pricing/bill/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/routing/</loc>
+    <loc>/features/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/customization/</loc>
+    <loc>/installation/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/payment/</loc>
+    <loc>/billing-pricing/payment/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/ubuntu/</loc>
+    <loc>/features/ubuntu/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/elements/</loc>
+    <loc>/installation/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/profile/</loc>
+    <loc>/billing-pricing/profile/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/windows/</loc>
+    <loc>/features/windows/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/about_nirmata/</loc>
+    <loc>/introduction/about_nirmata/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/applications/</loc>
+    <loc>/introduction/core_concepts/applications/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/change_management/</loc>
+    <loc>/environments/managing_applications/change_management/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/environmentpanel/</loc>
+    <loc>/environments/environmentpanel/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/users_and_roles/</loc>
+    <loc>/settings/users_and_roles/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/addnewenvironment/</loc>
+    <loc>/environments/addnewenvironment/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/application_components/</loc>
+    <loc>/introduction/core_concepts/application_components/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/scaling_pods/</loc>
+    <loc>/environments/managing_applications/scaling_pods/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/single_signon_with_saml/</loc>
+    <loc>/settings/single_signon_with_saml/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/solution_overview/</loc>
+    <loc>/introduction/solution_overview/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/application_activity/</loc>
+    <loc>/environments/managing_applications/application_activity/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/deployment_models/</loc>
+    <loc>/introduction/deployment_models/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/environments/</loc>
+    <loc>/introduction/core_concepts/environments/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/running_applications/</loc>
+    <loc>/environments/running_applications/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/using_ca_signed_saml_signature_certificates/</loc>
+    <loc>/settings/using_ca_signed_saml_signature_certificates/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/application_metrics/</loc>
+    <loc>/environments/managing_applications/application_metrics/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/clusters/</loc>
+    <loc>/introduction/core_concepts/clusters/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/</loc>
+    <loc>/introduction/core_concepts/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/enable_saml_sso_for_a_user/</loc>
+    <loc>/settings/enable_saml_sso_for_a_user/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/access_controls/</loc>
+    <loc>/environments/access_controls/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/application_events_tasks/</loc>
+    <loc>/environments/managing_applications/application_events_tasks/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/getting_started/</loc>
+    <loc>/introduction/getting_started/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/policies/</loc>
+    <loc>/introduction/core_concepts/policies/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/setup_ad_fs_for_use_with_nirmata/</loc>
+    <loc>/settings/setup_ad_fs_for_use_with_nirmata/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/cloud_providers/</loc>
+    <loc>/introduction/core_concepts/cloud_providers/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/cloud_shell/</loc>
+    <loc>/environments/managing_applications/cloud_shell/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/quick_start/</loc>
+    <loc>/introduction/quick_start/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/update_policy/</loc>
+    <loc>/environments/update_policy/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/container_logs/</loc>
+    <loc>/environments/managing_applications/container_logs/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/host_groups/</loc>
+    <loc>/introduction/core_concepts/host_groups/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/managing_applications/</loc>
+    <loc>/environments/managing_applications/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/containers/</loc>
+    <loc>/introduction/core_concepts/containers/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/resource_quota__limit_range/</loc>
+    <loc>/environments/resource_quota__limit_range/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/core_concepts/image_registries/</loc>
+    <loc>/introduction/core_concepts/image_registries/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/features/</loc>
+    <loc>/billing-pricing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/</loc>
+    <loc>/features/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>/installation/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/environments/</loc>
+    <loc>/environments/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/introduction/</loc>
+    <loc>/introduction/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/settings/</loc>
+    <loc>/settings/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/faq/</loc>
+    <loc>/faq/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

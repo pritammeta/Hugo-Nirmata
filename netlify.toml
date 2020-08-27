@@ -1,2 +1,8 @@
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.74"
+[context.production.environment]
+  HUGO_VERSION = "0.62.0"
+
+# A redirect rule for /en/latest
+[[redirects]]
+  from = "/en/latest"
+  to = "/"
++++++++++++++++++++++
