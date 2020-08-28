@@ -9,11 +9,12 @@
       {{ partial "navigation.html" . }}
       {{ partial "banner.html" . }}
     </header>
+
     {{ "<!-- /header -->" | safeHTML }}
     {{ else }}
     {{ "<!-- header -->" | safeHTML }}
     <header class="shadow-bottom sticky-top bg-white">
-      {{ partial "navigation.html" . }}
+      {{ partial "navigation.html" . }}     
     </header>
     {{ "<!-- /header -->" | safeHTML }}
     {{ end }}

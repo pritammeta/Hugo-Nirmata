@@ -1,9 +1,33 @@
 {{ define "main" }}
 
   {{ "<!-- topics -->" | safeHTML }}
+
+  
+
+
+
+   <div class="bgh" style="padding: 40px;">
+   <div class="row"> 
+     <div class="col-md-6 text-center" style="vertical-align: middle; ">
+    <img src="\images\pic.png" class="img-fluid" alt="banner1"width="550" style="vertical-align: middle; border-radius:5%; box-shadow: 0 14px 25px rgba(0,0,0,.1) !important;">
+  </div>
+     <div class="col-md-6 text-center"  style="padding: 20px; vertical-align: middle;">
+ 
+      <h1 class="display-4" style="vertical-align: middle;"><br>Find the best documentation here</h1>
+          <div class="text-center"> 
+          <button type="button" class="btn btn-primary btn-lg" style="margin: 10px;"><i class="fa fa-info-circle" aria-hidden="true"></i>Go to Docs</button>
+  
+      </div> 
+
+     </div>
+   
+   </div>
+ </section>
+   
+
   <section class="section">
-    <div class="container">
-      <div class="row justify-content-center">
+       <div class="container">
+          <div class="row justify-content-center">
         <div class="col-12 text-center">
           <h2 class="section-title">{{ i18n "topics_title" | safeHTML }}</h2>
         </div>
@@ -20,6 +44,11 @@
       </div>
     </div>
   </section>
+
+
+
+
+  
   {{ "<!-- /topics -->" | safeHTML }}
 
   {{ if .Site.Params.cta.enable }}
