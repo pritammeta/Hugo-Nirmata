@@ -904,4 +904,13 @@ pre code::-webkit-scrollbar-thumb {
   box-shadow: 0 14px 25px rgba(0,0,0,.1) !important;
  }
  
- 
+ .footer{margin-top: 100px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+ background-color: #1e345d;
+}
+
+
+.text-color-white {
+  color: #fff;
+}
