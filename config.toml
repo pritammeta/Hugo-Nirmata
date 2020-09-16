@@ -26,11 +26,7 @@
   siteUrl = "https://www.companyname.com"
 
   # customize color
-<<<<<<< Updated upstream
   primary_color = "#02007e"
-=======
-  primary_color = "#1e345d"
->>>>>>> Stashed changes
   body_color = "#f9f9f9"
   text_color = "#636363"
   text_color_dark = "#242738"
@@ -108,6 +104,24 @@
   name = "contact"
   url = "contact"
   weight = 3
+
+
+#version control
+[[Languages.en.menu.main]]
+ weight = 4
+  name = "version"
+  hasChildren = true
+ [[Languages.en.menu.main]]
+    parent = "version"
+    name = "v1.0"
+    url = "https://hugo-docs-pritz-v1.netlify.app/"
+    weight = 1
+[[Languages.en.menu.main]]
+    parent = "version"
+    name = "v2.0"
+    url = "https://hugo-docs-pritz-v2.netlify.app/"
+    weight = 2
+
 
   # Dropdown menu
   [[Languages.en.menu.main]]
