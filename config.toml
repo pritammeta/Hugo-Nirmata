@@ -26,7 +26,7 @@
   siteUrl = "https://www.companyname.com"
 
   # customize color
-  primary_color = "#02007e"
+  primary_color = "#FFC0CB"
   body_color = "#f9f9f9"
   text_color = "#636363"
   text_color_dark = "#242738"
