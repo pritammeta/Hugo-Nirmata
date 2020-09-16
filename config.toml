@@ -105,6 +105,22 @@
   url = "contact"
   weight = 3
 
+#version control
+[[Languages.en.menu.main]]
+ weight = 4
+  name = "version"
+  hasChildren = true
+ [[Languages.en.menu.main]]
+    parent = "version"
+    name = "v1.0"
+    url = "https://hugo-docs-pritz.netlify.app/"
+    weight = 1
+[[Languages.en.menu.main]]
+    parent = "version"
+    name = "v2.0"
+    url = "https://hugo-docs-pritz-v2.netlify.app/"
+    weight = 2
+    
   # Dropdown menu
   [[Languages.en.menu.main]]
   weight = 4
