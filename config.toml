@@ -26,7 +26,11 @@
   siteUrl = "https://www.companyname.com"
 
   # customize color
+<<<<<<< Updated upstream
   primary_color = "#02007e"
+=======
+  primary_color = "#1e345d"
+>>>>>>> Stashed changes
   body_color = "#f9f9f9"
   text_color = "#636363"
   text_color_dark = "#242738"
