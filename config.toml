@@ -1,6 +1,6 @@
   ################################# Default configuration ###################
   # provide your domain here
-  baseURL = "https://hugo-docs-pritz-v1.netlify.app/"
+  baseURL = "/"
   # theme
   theme = "dot"
   # site title
