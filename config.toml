@@ -22,7 +22,7 @@
   logo_white = "images/whiteLogo.png"
   # when logo is empty, it will shown your site title
 
-  sitenameVar = "Nirmate"
+  sitenameVar = "Nirmata"
   siteUrl = "https://hugo-docs-pritz-v1.netlify.app/"
 
   # customize color
