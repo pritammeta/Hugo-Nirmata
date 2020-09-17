@@ -239,8 +239,14 @@ pre {
   width: 100%;
   top: 0;
   left: 0;
-  background: var(--primary-color);
+  padding-top: 80px!important;
+  padding-bottom: 80px!important;
+  background: #02007e url(https://nirmatastage.wpengine.com/wp-content/uploads/2018/10/legos-bg@2x.png?id=5588)!important;
+  background-position: 50%!important;
+  background-repeat: no-repeat!important;
+  background-size: contain!important;
   opacity: .8;
+
 }
 
 .outline-0 {

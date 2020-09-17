@@ -22,8 +22,8 @@
   logo_white = "images/whiteLogo.png"
   # when logo is empty, it will shown your site title
 
-  sitenameVar = "CompanyName"
-  siteUrl = "https://www.companyname.com"
+  sitenameVar = "Nirmate"
+  siteUrl = "https://hugo-docs-pritz-v1.netlify.app/"
 
   # customize color
   primary_color = "#02007e"
@@ -74,7 +74,7 @@
   [Languages.en.params.banner]
   title = "Support Center & Knowledge base"
   subtitle = "Find advice and answers from our support team fast or get in touch"
-  bg_image = "images/product-diagram@2x.png"
+  bg_image = "images/f"
   placeholder = "Have a question? Just ask here or enter terms"
 
   # call to action
